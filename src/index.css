@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+@import "tailwindcss";
+
+:root {
+  --red:#cf4538;
+}
+
+.my-font {
+  font-family: "Caprasimo", serif;
+  font-weight: 10;
+  font-style: italic;
+}
