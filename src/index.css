@@ -3,7 +3,9 @@
 @import "tailwindcss";
 
 :root {
-  --red:#cf4538;
+  --red:#ab0215;
+  --yellow:#f8efdd;
+  --pink:#feb5c0;
 }
 
 .my-font {
