@@ -1,17 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
 @import "tailwindcss";
 
 :root {
-  --red:#ab0215;
-  --beige:#f8efdd;
-  --pink:#feb5c0;
-  --yellow:#ffd77c;
-  --blue:#abcad9;
+  --hotpink:#fc70a9;
+  --pink:#ffcdc6;
+  --red:#f55d32;
+  --lightpink:#ffe9de;
 }
 
-.my-font {
-  font-family: "Caprasimo", serif;
-  font-weight: 10;
-  font-style: italic;
+.font-my {
+
 }
